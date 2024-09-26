@@ -1,4 +1,4 @@
-# DIO-Sistema-Banc-rio-com-Python
+# DIO-Sistema-Bancario-com-Python
 
 Criando um sistema Bancário com Python - desafio DIO
 
