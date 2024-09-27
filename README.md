@@ -2,6 +2,10 @@
 
 Criando um sistema Bancário com Python - desafio DIO
 
+# Desafio 1
+
+Criar o sistema bancário com as funcionalidades de Saque, Deposito e Extrato.
+
 ## Funcionalidades
 
 - Saque
@@ -19,3 +23,12 @@ Deve permitir realizar 3 saques diarios com limite de r$ 500,00 por saque. se n�
 ### Extrato
 
 Deve mostrar todos os saques e depósitos no formato "R$ xxx.xx", além de mostrar o saldo atual.
+
+# Desafio 2
+
+Adição das funcionalidades Criação de Usuario e Criação de Conta. E organização do codigo em funções.
+
+## Funcionalidades
+
+- Criação de Usuario
+- Criação de Conta
